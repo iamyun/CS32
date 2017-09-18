@@ -1,0 +1,20 @@
+﻿  Actor.cpp
+c:\cs 32\roboblast\roboblast\actor.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(351): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(422): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(550): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(565): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(580): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(595): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(663): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(717): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\roboblast\roboblast\actor.cpp(608): warning C4715: 'BadGuys::move': not all control paths return a value
+  RoboBlast.vcxproj -> C:\CS 32\RoboBlast\Debug\RoboBlast.exe

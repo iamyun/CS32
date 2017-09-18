@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\cs 32\project 4 2nd\project 4 2nd\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Project 4 2nd.vcxproj -> C:\CS 32\Project 4 2nd\Debug\Project 4 2nd.exe
+  Project 4 2nd.vcxproj -> C:\CS 32\Project 4 2nd\Debug\Project 4 2nd.pdb (Partial PDB)

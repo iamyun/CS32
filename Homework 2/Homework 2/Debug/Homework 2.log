@@ -1,0 +1,7 @@
+﻿  mazestack.cpp
+  mazequeue.cpp
+  eval.cpp
+c:\cs 32\homework 2\homework 2\eval.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Homework 2.vcxproj -> C:\CS 32\Homework 2\Debug\Homework 2.exe
+  Homework 2.vcxproj -> C:\CS 32\Homework 2\Debug\Homework 2.pdb (Partial PDB)
